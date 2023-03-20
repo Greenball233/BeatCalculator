@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeatCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "105 15 9"
+    }
+  }
+}

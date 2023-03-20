@@ -1,0 +1,2 @@
+D:\Users\Administrator\source\repos\BeatCalculator\BeatCalculator\bin\Release\net5.0\win-x64\publish\BeatCalculator.pdb
+D:\Users\Administrator\source\repos\BeatCalculator\BeatCalculator\bin\Release\net5.0\win-x64\publish\BeatCalculator.exe
